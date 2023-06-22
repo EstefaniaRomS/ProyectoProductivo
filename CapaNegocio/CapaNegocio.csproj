@@ -41,8 +41,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CN_Ambiente.cs" />
     <Compile Include="CN_Categoria.cs" />
     <Compile Include="CN_Disponibilidad.cs" />
+    <Compile Include="CN_Elemento.cs" />
     <Compile Include="CN_Estado.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="CN_Rol.cs" />
